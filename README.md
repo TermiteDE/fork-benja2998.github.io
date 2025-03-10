@@ -1,5 +1,3 @@
-## This is my homepage. You may be able to see my repositories here.
-
 ----
 ## Running the site offline
 To run the site offline, you can run the following commands:
