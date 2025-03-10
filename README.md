@@ -11,3 +11,5 @@ To run the site offline, you can run the following commands:
    ```
 3. Open `index.html` in your browser.
 ----
+
+This project is licensed under the GNU General Public License v3.0. [Download the LICENSE file](https://github.com/benja2998/benja2998.github.io/raw/main/LICENSE)
