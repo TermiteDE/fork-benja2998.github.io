@@ -1,4 +1,5 @@
-----
+## My current projects
+Nothing yet...
 ## Running the site offline
 To run the site offline, you can run the following commands:
 1. Install `wget` if you don't have it installed:
@@ -11,5 +12,4 @@ To run the site offline, you can run the following commands:
    ```
 3. Open `index.html` in your browser.
 ----
-
-This project is licensed under the GNU General Public License v3.0. [Download the LICENSE file](https://github.com/benja2998/benja2998.github.io/raw/main/LICENSE)
+This project is licensed under the GNU General Public License v3.0. View the [LICENSE file](https://github.com/benja2998/benja2998.github.io/raw/main/LICENSE) for more info.
